@@ -105,7 +105,11 @@ header .navbar-menu li {
 }
 
 /* about */
-
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
 /* our work */
 
 
